@@ -1,0 +1,119 @@
+
+.nav1 {
+  background-color: rgb(255, 255, 255);
+  height: 90px;
+}
+header nav{
+    padding: 20px 40px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.244);
+}
+.logo {
+  margin:-18px;
+}
+.button1 {
+  height: 35px;
+  width: 110px;
+  color: rgb(0, 0, 0);
+  background: rgb(255, 255, 255);
+  position: absolute;
+  left: 1130px;
+  top:34px;
+  border-radius: 8px;
+  border: 2px;
+}
+.div1 {
+  background-color: rgb(247, 247, 239);
+  height:200px;
+  width: 220px;
+  position: absolute;
+  left:40px ;
+  top:95px ;
+}
+.img1{
+  position: absolute;
+  left:25px ;
+  bottom:40px ;
+}
+.div1 h3{
+  position: absolute;
+  left:50px ;
+  top:165px;
+  font-weight: bold;
+}
+.div2 {
+  background-color: rgb(247, 247, 239);
+  height:200px;
+  width: 220px;
+  position: absolute;
+  left:270px ;
+  top:95px ;
+}
+.img2{
+  position: absolute;
+  left:33px ;
+  bottom:40px ;
+}
+.div2 h3{
+  position: absolute;
+  left:64px ;
+  top:165px;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.div3 {
+  background-color: rgb(247, 247, 239);
+  height:200px;
+  width: 220px;
+  position: absolute;
+  left:530px ;
+  top:95px ;
+}
+.img3{
+  position: absolute;
+  left:33px ;
+  bottom:40px ;
+}
+.div3 h3{
+  position: absolute;
+  left:19px ;
+  top:165px;
+  font-weight: bold;
+}
+.div4 {
+  background-color: rgb(247, 247, 239);
+  height:200px;
+  width: 220px;
+  position: absolute;
+  left:260px ;
+  top:px ;
+}
+.img4{
+  position: absolute;
+  left:33px ;
+  bottom:40px ;
+}
+.div4 h3{
+  position: absolute;
+  left:60px ;
+  top:165px;
+  font-weight: bold;
+}
+.div5 {
+  background-color: rgb(247, 247, 239);
+  height:200px;
+  width: 220px;
+  position: absolute;
+  left:500px ;
+  top:px ;
+}
+.img5{
+  position: absolute;
+  left:33px ;
+  bottom:40px ;
+}
+.div5 h3{
+  position: absolute;
+  left:33px ;
+  top:165px;
+  font-weight: bold;
+}
